@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ68NHMDWMH6ED9JXMYXFQSH",
+    "timestamp": 1777253137410,
+    "date": "2026/4/27 09:25:37",
+    "prompt": "同风格的守望先锋中的天使",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 85,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222746776105-720d069c-6c02-42af-8ddc-666a1729aaa3-gpt_image_2_backup_task_01KQ68R3EKV21KD35TKYDKZAEJ_0.png",
+        "expiresAt": 1777339625
+      }
+    ]
+  },
+  {
     "id": "task_01KQ680D50DYFA00PTFJ4RKXMR",
     "timestamp": 1777252446339,
     "date": "2026/4/27 09:14:06",
