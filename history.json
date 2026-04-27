@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ7BJRR5TNCXVCJVSJJA1Q1Z",
+    "timestamp": 1777289748242,
+    "date": "2026/4/27 19:35:48",
+    "prompt": "整一个东北雨姐与詹姆斯哈登的结合体",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 42,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222710211083-329f7290-e7c6-4949-9877-523faea83ff6-gpt_image_2_backup_task_01KQ7BKZFJZKYZCY1HBRJZ9DGV_0.png",
+        "expiresAt": 1777376191
+      }
+    ]
+  },
+  {
     "id": "task_01KQ75C65PVS1XA7GFHZQJFPHH",
     "timestamp": 1777283239724,
     "date": "2026/4/27 17:47:19",
