@@ -1,5 +1,12 @@
 [
   {
+    "id": "chat_1777254749306",
+    "title": "新对话",
+    "model": "gpt-4o",
+    "messages": [],
+    "createdAt": 1777254749306
+  },
+  {
     "id": "chat_1777250463599",
     "title": "你是谁家的模型",
     "model": "gpt-4o",
@@ -22,12 +29,5 @@
       }
     ],
     "createdAt": 1777250463599
-  },
-  {
-    "id": "chat_1777254749306",
-    "title": "新对话",
-    "model": "gpt-4o",
-    "messages": [],
-    "createdAt": 1777254749306
   }
 ]
