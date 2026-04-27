@@ -1,20 +1,5 @@
 [
   {
-    "id": "task_01KQ7XE6NMBR1Z5DP8JGYT2P7J",
-    "timestamp": 1777308471073,
-    "date": "2026/4/28 00:47:51",
-    "prompt": "生成一个这个人堕入18层地狱的图",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 226,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222691301353-8afa66ab-12b3-47d1-94f4-e36976b8ca67-gpt_image_2_codex_task_01KQ7XN20N5FHKG17RHCWXFBSM_0.png",
-        "expiresAt": 1777395100
-      }
-    ]
-  },
-  {
     "id": "task_01KQ7KZW7EKPW1X2NN5TGRDRF2",
     "timestamp": 1777298565842,
     "date": "2026/4/27 22:02:45",
