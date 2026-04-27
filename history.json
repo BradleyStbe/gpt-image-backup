@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ74V6R6V80AXPZ4V8AZ0M27",
+    "timestamp": 1777282685001,
+    "date": "2026/4/27 17:38:05",
+    "prompt": "古风美女，展示超级长的大长腿，衣服紧身，红底亮面高跟鞋",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 40,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222717275598-7a8f283d-99ea-493e-aad7-d8848749e8e9-gpt_image_2_backup_task_01KQ74WCHF5NCVW4FK6W4RM3FJ_0.png",
+        "expiresAt": 1777369125
+      }
+    ]
+  },
+  {
     "id": "task_01KQ73XANYB6M9V3TT52S0J3P3",
     "timestamp": 1777281705596,
     "date": "2026/4/27 17:21:45",
