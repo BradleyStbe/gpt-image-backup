@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ680D50DYFA00PTFJ4RKXMR",
+    "timestamp": 1777252446339,
+    "date": "2026/4/27 09:14:06",
+    "prompt": "性感古风美女，真实质感大长腿。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 65,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222747489442-75f24d49-3be8-4e5f-89a8-a3b05a60a989-gpt_image_2_backup_task_01KQ682ATXP95NWRYFWFFXZRG2_0.png",
+        "expiresAt": 1777338912
+      }
+    ]
+  },
+  {
     "id": "task_01KQ6693P4ADGZRRGWJ1P2KHEE",
     "timestamp": 1777250634415,
     "date": "2026/4/27 08:43:54",
