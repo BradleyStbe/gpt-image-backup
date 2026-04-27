@@ -1,9 +1,18 @@
 [
   {
     "id": "chat_1777250463599",
-    "title": "新对话",
+    "title": "你是谁家的模型",
     "model": "gpt-4o",
-    "messages": [],
+    "messages": [
+      {
+        "role": "user",
+        "content": "你是谁家的模型"
+      },
+      {
+        "role": "assistant",
+        "content": "我是 OpenAI 开发的语言模型，称为 ChatGPT。不属于任何特定的公司或组织，而是由 OpenAI 团队创建和维护的。有什么我可以帮助你的吗？"
+      }
+    ],
     "createdAt": 1777250463599
   }
 ]
