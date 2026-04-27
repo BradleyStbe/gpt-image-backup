@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ81B67VKM70CZVB53BG7R2T",
+    "timestamp": 1777312567289,
+    "date": "2026/4/28 01:56:07",
+    "prompt": "真实感手机拍摄 古风美女，网红蛇精脸，展示超级长的大长腿，衣服紧身，红底黑漆皮亮面高跟鞋",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 43,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222687388408-53068229-7748-439c-90b2-5639acc542f7-gpt_image_2_backup_task_01KQ81CF86H5ZGKNM4R4RJKYA2_0.png",
+        "expiresAt": 1777399012
+      }
+    ]
+  },
+  {
     "id": "task_01KQ818BT9R4V5JW6T197Y51EW",
     "timestamp": 1777312474708,
     "date": "2026/4/28 01:54:34",
