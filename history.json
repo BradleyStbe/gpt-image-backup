@@ -1,20 +1,5 @@
 [
   {
-    "id": "task_01KQ7J7PSYYP8FHCNG3WRQTFHT",
-    "timestamp": 1777296725112,
-    "date": "2026/4/27 21:32:05",
-    "prompt": "杨瀚森海报",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 58,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222703216907-d1364db4-adc4-4ed5-9c54-b0f415fd228a-gpt_image_2_backup_task_01KQ7J9DQJ9FMQQH1BCDZD7480_0.png",
-        "expiresAt": 1777383184
-      }
-    ]
-  },
-  {
     "id": "task_01KQ7HEVFM7D097YT653JDHXRT",
     "timestamp": 1777295910530,
     "date": "2026/4/27 21:18:30",
