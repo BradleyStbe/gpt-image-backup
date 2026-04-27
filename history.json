@@ -30,21 +30,6 @@
     ]
   },
   {
-    "id": "task_01KQ809ZEF4YCW0JGR8SASK36X",
-    "timestamp": 1777311475247,
-    "date": "2026/4/28 01:37:55",
-    "prompt": "生成他跳舞的12帧分镜。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 60,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222688459493-170e4368-5c96-402c-becd-4e934a2b23b3-gpt_image_2_backup_task_01KQ80BS8RMRPVRPR453K60N38_0.png",
-        "expiresAt": 1777397941
-      }
-    ]
-  },
-  {
     "id": "task_01KQ7KZW7EKPW1X2NN5TGRDRF2",
     "timestamp": 1777298565842,
     "date": "2026/4/27 22:02:45",
