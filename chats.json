@@ -14,12 +14,5 @@
       }
     ],
     "createdAt": 1777250463599
-  },
-  {
-    "id": "chat_1777252602555",
-    "title": "新对话",
-    "model": "gpt-4o",
-    "messages": [],
-    "createdAt": 1777252602555
   }
 ]
