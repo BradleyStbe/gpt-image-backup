@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQ6A9HE36NJYP60GCNYAXJD5",
+    "timestamp": 1777254843114,
+    "date": "2026/4/27 09:54:03",
+    "prompt": "真实感金发碧眼大波浪美女内衣模特湿发对镜自拍",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 332,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222744825712-a75add7f-88ba-4848-a992-3935448ea33e-gpt_image_2_codex_task_01KQ6AKM27H0R7YA0YH0PQ9RTN_0.png",
+        "expiresAt": 1777341575
+      }
+    ]
+  },
+  {
     "id": "task_01KQ68NHMDWMH6ED9JXMYXFQSH",
     "timestamp": 1777253137410,
     "date": "2026/4/27 09:25:37",
