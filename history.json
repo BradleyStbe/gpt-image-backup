@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQA6ESW4ZJ7JNQZ4MFN44X0P",
+    "timestamp": 1777385036737,
+    "date": "2026/4/28 22:03:56",
+    "prompt": "生成一张身穿费城七十六人复古黑色球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 44,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222614917815-e6e50036-279b-4802-8135-03aed021171a-gpt_image_2_backup_task_01KQA6G3A8PKHDEY543ZY0YRDB_0.png",
+        "expiresAt": 1777471483
+      }
+    ]
+  },
+  {
     "id": "task_01KQA5P42NXV813QQHW1DGXYV8",
     "timestamp": 1777384230369,
     "date": "2026/4/28 21:50:30",
