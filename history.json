@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQA7AV6MTFEF0TSGJXR6Q407",
+    "timestamp": 1777385958046,
+    "date": "2026/4/28 22:19:18",
+    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。注意，是杰伦布朗与杰森塔图姆两个人被正面隔着扣。乔治身穿的是七十六人8号客场球衣，杰伦布朗与杰森塔图姆穿的是凯尔特人主场球衣。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 51,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613992273-2e492a84-e604-4b64-84c9-f67bbdac8e59-gpt_image_2_backup_task_01KQA7CB5DNR46RG67PK9DPZST_0.png",
+        "expiresAt": 1777472409
+      }
+    ]
+  },
+  {
     "id": "task_01KQA77P0HKF02SA57JBJKHVAR",
     "timestamp": 1777385853836,
     "date": "2026/4/28 22:17:33",
