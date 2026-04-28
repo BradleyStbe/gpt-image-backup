@@ -1,5 +1,35 @@
 [
   {
+    "id": "task_01KQA7HR7DK7Z53YWY6ER2C3M1",
+    "timestamp": 1777386184362,
+    "date": "2026/4/28 22:23:04",
+    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场8号球衣隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 37,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613778941-56e337d4-83e4-4d09-8ba6-b74fcdf0d116-gpt_image_2_backup_task_01KQA7JVG2HTAY6BBFAJHKJDNA_0.png",
+        "expiresAt": 1777472621
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA7FAP3PK5R0CEDC8D8QY68",
+    "timestamp": 1777386104720,
+    "date": "2026/4/28 22:21:44",
+    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场蓝色球衣，8号隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 38,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613857153-8c57e171-d387-407f-81b1-f679fd8ccbb2-gpt_image_2_backup_task_01KQA7GF3WNPCFC8KN4EG77B3W_0.png",
+        "expiresAt": 1777472543
+      }
+    ]
+  },
+  {
     "id": "task_01KQA7FAP3PK5R0CEDC8D8QY68",
     "timestamp": 1777386104720,
     "date": "2026/4/28 22:21:44",
