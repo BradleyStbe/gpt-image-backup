@@ -15,21 +15,6 @@
     ]
   },
   {
-    "id": "task_01KQC44QZV0DAQA3X3RH6DDMXY",
-    "timestamp": 1777449716579,
-    "date": "2026/4/29 16:01:56",
-    "prompt": "生成一个扬尼斯阿德托昆博垫脚谢伊吉尔吉斯亚历山大的照片，真实感，场边观众用手机拍摄",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 60,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222550219292-f15e4b00-edd4-4736-9c91-c8187389dc28-gpt_image_2_backup_task_01KQC46HF23K7SZE99NV415SJR_0.png",
-        "expiresAt": 1777536181
-      }
-    ]
-  },
-  {
     "id": "task_01KQA7HR7DK7Z53YWY6ER2C3M1",
     "timestamp": 1777386184362,
     "date": "2026/4/28 22:23:04",
