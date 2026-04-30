@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQFA592R47KMSC3Q6T52N895",
+    "timestamp": 1777556693942,
+    "date": "2026/4/30 21:44:53",
+    "prompt": "制作一张费城保罗乔治G6在主场面对凯尔特人狂砍71分费城七六人将比分追至3:3的海报，其他数据随便编。震撼感、史诗感。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 44,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222443262727-8667a91c-0c9c-4013-a561-02ec6dd60d49-gpt_image_2_backup_task_01KQFA6K7P5R2HZT5NBYNHE4NT_0.png",
+        "expiresAt": 1777643138
+      }
+    ]
+  },
+  {
     "id": "task_01KQFA19WZ7NPNQR4W6SK7P8Z4",
     "timestamp": 1777556563168,
     "date": "2026/4/30 21:42:43",
