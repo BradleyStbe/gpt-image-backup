@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQF7VRSABKZSZVTT7NYFZEZB",
+    "timestamp": 1777554285126,
+    "date": "2026/4/30 21:04:45",
+    "prompt": "2018 季后赛\n \n首轮 G6（爵士 @ 雷霆，2018-04-27）\n \n- 结果：L 91-96（系列 2-4）\n\n- 时间：45:27\n\n- 得分：5 | 篮板：3（0+3） | 助攻：8 | 抢断：1 | 盖帽：0\n\n- 投篮：2-16（.125），三分 0-6（.000），罚球 1-2（.500）\n\n- 失误：6 | 犯规：3 | 效率：-5.5 | +/-：-2  生成保罗乔治季后赛拉稀海报，数据要保留，但是格式不一定要完全相同，以美观为准。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 39,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222445676424-dbc9aed7-1ce5-4a31-9781-3e512a1dc693-gpt_image_2_backup_task_01KQF7WY3KNA0PNSVJJNQRVFNP_0.png",
+        "expiresAt": 1777640724
+      }
+    ]
+  },
+  {
     "id": "task_01KQF7S67MQXCT8DCMKNB5V09J",
     "timestamp": 1777554194966,
     "date": "2026/4/30 21:03:14",
