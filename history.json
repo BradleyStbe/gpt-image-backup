@@ -1,5 +1,20 @@
 [
   {
+    "id": "task_01KQFA19WZ7NPNQR4W6SK7P8Z4",
+    "timestamp": 1777556563168,
+    "date": "2026/4/30 21:42:43",
+    "prompt": "制作一张费城保罗乔治G6面对凯尔特人主场狂砍71分的海报，其他数据随便编。震撼感、史诗感。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 45,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222443392897-7c7cc5b5-39bb-4935-996f-4ab313d3de42-gpt_image_2_backup_task_01KQFA2M3W1Q4TEQTZZ5TVEZZY_0.png",
+        "expiresAt": 1777643008
+      }
+    ]
+  },
+  {
     "id": "task_01KQF7VRSABKZSZVTT7NYFZEZB",
     "timestamp": 1777554285126,
     "date": "2026/4/30 21:04:45",
