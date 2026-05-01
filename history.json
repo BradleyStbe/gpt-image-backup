@@ -1,5 +1,35 @@
 [
   {
+    "id": "task_01KQGNTJ01M2J1A6TSR034TQAM",
+    "timestamp": 1777602478455,
+    "date": "2026/5/1 10:27:58",
+    "prompt": "号码/球员 时间 得分 篮板 助攻 投篮 三分 罚球 抢断 盖帽 失误 犯规 +/-\n8乔治 (前锋)39'37 23 4 3 8/17 5/9 2/2 2 1 4 2 +11\n以上是保罗乔治在东部首轮 G6面对波士顿凯尔特人时发挥神勇砍下的数据，他帮助球队费城七六人将比分扳成3:3。请以这个数据为底，制作海报，史诗感、震撼感。",
+    "size": "9:16",
+    "resolution": "2k",
+    "actualTime": 148,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222397373324-9ebab046-22c4-4728-b2c7-8aeb4839430e-gpt_image_2_codex_task_01KQGNZ0XY4R37GT6VDRKFHX1G_0.png",
+        "expiresAt": 1777689028
+      }
+    ]
+  },
+  {
+    "id": "task_01KQGNTJ01M2J1A6TSR034TQAM",
+    "timestamp": 1777602478455,
+    "date": "2026/5/1 10:27:58",
+    "prompt": "号码/球员 时间 得分 篮板 助攻 投篮 三分 罚球 抢断 盖帽 失误 犯规 +/-\n8乔治 (前锋)39'37 23 4 3 8/17 5/9 2/2 2 1 4 2 +11\n以上是保罗乔治在东部首轮 G6面对波士顿凯尔特人时发挥神勇砍下的数据，他帮助球队费城七六人将比分扳成3:3。请以这个数据为底，制作海报，史诗感、震撼感。",
+    "size": "9:16",
+    "resolution": "2k",
+    "actualTime": 148,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222397373324-9ebab046-22c4-4728-b2c7-8aeb4839430e-gpt_image_2_codex_task_01KQGNZ0XY4R37GT6VDRKFHX1G_0.png",
+        "expiresAt": 1777689028
+      }
+    ]
+  },
+  {
     "id": "task_01KQGNQRT6Y641KEZGNHN5D9MZ",
     "timestamp": 1777602386714,
     "date": "2026/5/1 10:26:26",
