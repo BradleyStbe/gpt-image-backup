@@ -512,36 +512,5 @@
         "expiresAt": 1777338912
       }
     ]
-  },
-  {
-    "id": "task_01KQ6693P4ADGZRRGWJ1P2KHEE",
-    "timestamp": 1777250634415,
-    "date": "2026/4/27 08:43:54",
-    "prompt": "35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 215,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222749150792-5c3ffe10-00f0-466b-8479-bc63e8451b0b-gpt_image_2_codex_task_01KQ66FM92HY2S0XMXB2WZ55F0_0.png",
-        "expiresAt": 1777337250
-      }
-    ]
-  },
-  {
-    "id": "task_01KQ62NRM2S0WQGP5FB2AYE6JS",
-    "timestamp": 1777246855228,
-    "date": "2026/4/27 07:40:55",
-    "prompt": "帮我生成一张图片：图片风格为厂人像摄 影］，请你画一张及其平凡无奇的iPhone对 镜自拍照，主角是酒红色连衣裙的性感 美女，双腿微微岔开坐在地上，身上和头 发有湿身的痕迹，穿着厚黑丝脚尖挑起惦着小皮鞋在房间内的落地镜前用 后置摄像头随手一拍的快照。照片开启了 闪光灯，略带点快门速度不够导致的运动 模糊，构图混乱整体呈现出一种平庸和日 常感，细节要到位。比例4:3。大胸部，聚拢内衣，两腿对着镜头微微张开。",
-    "size": "16:9",
-    "resolution": "1k",
-    "referenceImages": [],
-    "actualTime": 448,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222752697704-09668d5e-e034-491b-83ea-3d9911410d50-gpt_image_2_codex_task_01KQ633CHDXF1S0A321YAHQ8GX_0.png",
-        "expiresAt": 1777333703
-      }
-    ]
   }
 ]
