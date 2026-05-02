@@ -1,20 +1,5 @@
 [
   {
-    "id": "task_01KQHGQKG4S7BR1MKRVBWGGNFF",
-    "timestamp": 1777630694669,
-    "date": "2026/5/1 18:18:14",
-    "prompt": "生成一张费城七六人队保罗乔治在客场抢七绝杀杰森塔图姆的现场照片，官方拍摄，真实感。",
-    "size": "auto",
-    "resolution": "2k",
-    "actualTime": 167,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222369139962-16aa5813-ba07-49f9-8665-4c277a620a4d-gpt_image_2_codex_task_01KQHGWMK7BCPJRYPQ9PM4AM1E_0.png",
-        "expiresAt": 1777717261
-      }
-    ]
-  },
-  {
     "id": "task_01KQH1J3699CGWSYYJWW59G3K9",
     "timestamp": 1777614785545,
     "date": "2026/5/1 13:53:05",
