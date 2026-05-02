@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQMEJN79A6NXNHF3N66HWEKW",
+    "timestamp": 1777729096172,
+    "date": "2026/5/2 21:38:16",
+    "prompt": "真实感金发碧眼大波浪美女内衣模特在内衣套装拍摄现场坐在地上湿发对镜自拍全身照两腿对镜子张开，白皮肤",
+    "size": "auto",
+    "resolution": "1k",
+    "n": 1,
+    "actualTime": 147,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQMEJN79A6NXNHF3N66HWEKW.png",
+        "expiresAt": 1777815646
+      }
+    ]
+  },
+  {
     "id": "task_01KQMDTGFSG2PFAHY9DYFNTNYJ",
     "timestamp": 1777728304632,
     "date": "2026/5/2 21:25:04",
