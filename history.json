@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQMFAW0Y7KWTCKH955J85JE4",
+    "timestamp": 1777729889483,
+    "date": "2026/5/2 21:51:29",
+    "prompt": "生成76人8号保罗乔治抢七夺胜，踏破北岸花园球馆的海报，史诗感",
+    "size": "9:16",
+    "resolution": "1k",
+    "n": 1,
+    "actualTime": 34,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQMFAW0Y7KWTCKH955J85JE4.png",
+        "expiresAt": 1777816326
+      }
+    ]
+  },
+  {
     "id": "task_01KQMEJN79A6NXNHF3N66HWEKW",
     "timestamp": 1777729096172,
     "date": "2026/5/2 21:38:16",
