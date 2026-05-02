@@ -45,5 +45,12 @@
     "model": "gpt-4o",
     "messages": [],
     "createdAt": 1777684503611
+  },
+  {
+    "id": "chat_1777699060732",
+    "title": "新对话",
+    "model": "gpt-4o",
+    "messages": [],
+    "createdAt": 1777699060732
   }
 ]
