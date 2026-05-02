@@ -335,36 +335,6 @@
     ]
   },
   {
-    "id": "task_01KQ7JPHRH3N1DKH8Q8D6RQAG4",
-    "timestamp": 1777297211517,
-    "date": "2026/4/27 21:40:11",
-    "prompt": "真实感 古风美女，展示超级长的大长腿，衣服紧身，红底黑漆皮亮面高跟鞋",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 31,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222702755943-807bcc10-8cf9-487d-b6bc-f2dbcde73cf3-gpt_image_2_backup_task_01KQ7JQFWR0SFV5CJ2NBQNXET7_0.png",
-        "expiresAt": 1777383644
-      }
-    ]
-  },
-  {
-    "id": "task_01KQ7JKGQYJ5SS8NZKNCR0D6TH",
-    "timestamp": 1777297112140,
-    "date": "2026/4/27 21:38:32",
-    "prompt": "真实感 古风美女，展示超级长的大长腿，衣服紧身，红底黑漆皮亮面高跟鞋",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 70,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222702817152-d90ae1b8-d65d-401b-b9ad-d784bd9aa0c2-gpt_image_2_backup_task_01KQ7JNM3Z7VGXV615DRTFG127_0.png",
-        "expiresAt": 1777383583
-      }
-    ]
-  },
-  {
     "id": "task_01KQ7JDNJX8ZF2WTNNKB8711KB",
     "timestamp": 1777296920505,
     "date": "2026/4/27 21:35:20",
