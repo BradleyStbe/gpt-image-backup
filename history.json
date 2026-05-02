@@ -543,21 +543,5 @@
         "expiresAt": 1777333703
       }
     ]
-  },
-  {
-    "id": "task_01KQ61Z2VVAHTDPSWSARM8YVDZ",
-    "timestamp": 1777246111891,
-    "date": "2026/4/27 07:28:31",
-    "prompt": "保罗乔治传奇风海报",
-    "size": "16:9",
-    "resolution": "1k",
-    "referenceImages": [],
-    "actualTime": 80,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222753808199-97746373-b9f1-432b-bbde-e8a4cf362fb7-gpt_image_2_backup_task_01KQ621G5JACM11YCBG3YZS8WY_0.png",
-        "expiresAt": 1777332592
-      }
-    ]
   }
 ]
