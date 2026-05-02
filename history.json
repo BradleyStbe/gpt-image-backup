@@ -45,21 +45,6 @@
     ]
   },
   {
-    "id": "task_01KQGP2T79TY12T2WC8RVZYDQK",
-    "timestamp": 1777602748992,
-    "date": "2026/5/1 10:32:28",
-    "prompt": "2026年 NBA 季后赛东部首轮，76人对凯尔特人  Game 6。76人以106:93战胜凯尔特人，将系列赛大比分扳成3:3平。此战76人前锋保罗乔治发挥出色，全场出战39分37秒，得到23分、4篮板、3助攻、2抢断，正负值+11。帮助球队战胜对手。请以此信息制作海报，震撼感、史诗感。",
-    "size": "9:16",
-    "resolution": "2k",
-    "actualTime": 151,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222397100608-59d0953f-e150-4610-8102-2906217a5875-gpt_image_2_codex_task_01KQGP7B49XNMMF9JYAKHVJZ2T_0.png",
-        "expiresAt": 1777689301
-      }
-    ]
-  },
-  {
     "id": "task_01KQGNTJ01M2J1A6TSR034TQAM",
     "timestamp": 1777602478455,
     "date": "2026/5/1 10:27:58",
