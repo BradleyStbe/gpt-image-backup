@@ -1,21 +1,5 @@
 [
   {
-    "id": "task_01KQMEJN79A6NXNHF3N66HWEKW",
-    "timestamp": 1777729096172,
-    "date": "2026/5/2 21:38:16",
-    "prompt": "真实感金发碧眼大波浪美女内衣模特在内衣套装拍摄现场坐在地上湿发对镜自拍全身照两腿对镜子张开，白皮肤",
-    "size": "auto",
-    "resolution": "1k",
-    "n": 1,
-    "actualTime": 147,
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQMEJN79A6NXNHF3N66HWEKW.png",
-        "expiresAt": 1777815646
-      }
-    ]
-  },
-  {
     "id": "task_01KQMDTGFSG2PFAHY9DYFNTNYJ",
     "timestamp": 1777728304632,
     "date": "2026/5/2 21:25:04",
@@ -366,36 +350,6 @@
       {
         "url": "https://upload.apimart.ai/f/image/9998222445676424-dbc9aed7-1ce5-4a31-9781-3e512a1dc693-gpt_image_2_backup_task_01KQF7WY3KNA0PNSVJJNQRVFNP_0.png",
         "expiresAt": 1777640724
-      }
-    ]
-  },
-  {
-    "id": "task_01KQC9BJVCPB8CR4NET4MT6TEX",
-    "timestamp": 1777455188529,
-    "date": "2026/4/29 17:33:08",
-    "prompt": "保罗乔治枪杀乔尔恩比德，场边观众手机拍摄的真实感。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 89,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222544722636-987c5de4-2cf1-4cd6-976b-d20c4f2ffe09-gpt_image_2_codex_task_01KQC9E97FAQM6ZA3YBYF3919H_0.png",
-        "expiresAt": 1777541678
-      }
-    ]
-  },
-  {
-    "id": "task_01KQC44QZV0DAQA3X3RH6DDMXY",
-    "timestamp": 1777449716579,
-    "date": "2026/4/29 16:01:56",
-    "prompt": "生成一个扬尼斯阿德托昆博垫脚谢伊吉尔吉斯亚历山大的照片，真实感，场边观众用手机拍摄",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 60,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222550219292-f15e4b00-edd4-4736-9c91-c8187389dc28-gpt_image_2_backup_task_01KQC46HF23K7SZE99NV415SJR_0.png",
-        "expiresAt": 1777536181
       }
     ]
   }
