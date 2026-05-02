@@ -80,22 +80,6 @@
     ]
   },
   {
-    "id": "task_01KQMFJ7B0S2SWQFK4SW4KMGS1",
-    "timestamp": 1777730130660,
-    "date": "2026/5/2 21:55:30",
-    "prompt": "生成76人8号球员保罗乔治征服北岸花园球场抢七绝杀的海报。模仿 NBA 官方画风，模仿 NBA 官方的制作风格，要震撼感，史诗感。",
-    "size": "9:16",
-    "resolution": "2k",
-    "n": 1,
-    "actualTime": 156,
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQMFJ7B0S2SWQFK4SW4KMGS1.png",
-        "expiresAt": 1777816689
-      }
-    ]
-  },
-  {
     "id": "task_01KQMFEXYYSNK1RQ462KX1QXC1",
     "timestamp": 1777730022759,
     "date": "2026/5/2 21:53:42",
