@@ -45,6 +45,21 @@
     ]
   },
   {
+    "id": "task_01KQGP2T79TY12T2WC8RVZYDQK",
+    "timestamp": 1777602748992,
+    "date": "2026/5/1 10:32:28",
+    "prompt": "2026年 NBA 季后赛东部首轮，76人对凯尔特人  Game 6。76人以106:93战胜凯尔特人，将系列赛大比分扳成3:3平。此战76人前锋保罗乔治发挥出色，全场出战39分37秒，得到23分、4篮板、3助攻、2抢断，正负值+11。帮助球队战胜对手。请以此信息制作海报，震撼感、史诗感。",
+    "size": "9:16",
+    "resolution": "2k",
+    "actualTime": 151,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222397100608-59d0953f-e150-4610-8102-2906217a5875-gpt_image_2_codex_task_01KQGP7B49XNMMF9JYAKHVJZ2T_0.png",
+        "expiresAt": 1777689301
+      }
+    ]
+  },
+  {
     "id": "task_01KQGNTJ01M2J1A6TSR034TQAM",
     "timestamp": 1777602478455,
     "date": "2026/5/1 10:27:58",
@@ -176,6 +191,111 @@
       {
         "url": "https://upload.apimart.ai/f/image/9998222550219292-f15e4b00-edd4-4736-9c91-c8187389dc28-gpt_image_2_backup_task_01KQC46HF23K7SZE99NV415SJR_0.png",
         "expiresAt": 1777536181
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA7HR7DK7Z53YWY6ER2C3M1",
+    "timestamp": 1777386184362,
+    "date": "2026/4/28 22:23:04",
+    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场8号球衣隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 37,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613778941-56e337d4-83e4-4d09-8ba6-b74fcdf0d116-gpt_image_2_backup_task_01KQA7JVG2HTAY6BBFAJHKJDNA_0.png",
+        "expiresAt": 1777472621
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA7FAP3PK5R0CEDC8D8QY68",
+    "timestamp": 1777386104720,
+    "date": "2026/4/28 22:21:44",
+    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场蓝色球衣，8号隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 38,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613857153-8c57e171-d387-407f-81b1-f679fd8ccbb2-gpt_image_2_backup_task_01KQA7GF3WNPCFC8KN4EG77B3W_0.png",
+        "expiresAt": 1777472543
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA7AV6MTFEF0TSGJXR6Q407",
+    "timestamp": 1777385958046,
+    "date": "2026/4/28 22:19:18",
+    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。注意，是杰伦布朗与杰森塔图姆两个人被正面隔着扣。乔治身穿的是七十六人8号客场球衣，杰伦布朗与杰森塔图姆穿的是凯尔特人主场球衣。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 51,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222613992273-2e492a84-e604-4b64-84c9-f67bbdac8e59-gpt_image_2_backup_task_01KQA7CB5DNR46RG67PK9DPZST_0.png",
+        "expiresAt": 1777472409
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA77P0HKF02SA57JBJKHVAR",
+    "timestamp": 1777385853836,
+    "date": "2026/4/28 22:17:33",
+    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 47,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222614098905-519e93ea-4853-44c2-aa0f-315edfcbfddb-gpt_image_2_backup_task_01KQA793140EZW8RPG3MZEMFGA_0.png",
+        "expiresAt": 1777472302
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA6ESW4ZJ7JNQZ4MFN44X0P",
+    "timestamp": 1777385036737,
+    "date": "2026/4/28 22:03:56",
+    "prompt": "生成一张身穿费城七十六人复古黑色球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 44,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222614917815-e6e50036-279b-4802-8135-03aed021171a-gpt_image_2_backup_task_01KQA6G3A8PKHDEY543ZY0YRDB_0.png",
+        "expiresAt": 1777471483
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA5P42NXV813QQHW1DGXYV8",
+    "timestamp": 1777384230369,
+    "date": "2026/4/28 21:50:30",
+    "prompt": "生成一张身穿费城七十六人复古黑色球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 37,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222615732957-1cdc3f17-5ee8-46c2-a37a-599f0ddbe05a-gpt_image_2_backup_task_01KQA5Q792J7NBVC5220Q9X5M8_0.png",
+        "expiresAt": 1777470668
+      }
+    ]
+  },
+  {
+    "id": "task_01KQA5N48YR7ARZ0PK1P8XVN11",
+    "timestamp": 1777384195917,
+    "date": "2026/4/28 21:49:55",
+    "prompt": "真实感手机拍摄 古风美女，网红蛇精脸，展示超级长的大长腿，紧身薄纱汉服，红底黑漆皮亮面高跟鞋",
+    "size": "auto",
+    "resolution": "1k",
+    "actualTime": 78,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222615725801-034e7259-3f93-41c2-8aa9-b50f4ae3fbfa-gpt_image_2_backup_task_01KQA5QE8N10C89G7KJGS1BH2C_0.png",
+        "expiresAt": 1777470676
       }
     ]
   },
@@ -779,156 +899,6 @@
       {
         "url": "https://upload.apimart.ai/f/image/9998222761987600-23703dd6-9df3-4c21-a324-ec6b75253697-gpt_image_2_backup_task_01KQ5T7WFFJ6X6VMK6P382YGGB_0.png",
         "expiresAt": 1777324413
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7HR7DK7Z53YWY6ER2C3M1",
-    "timestamp": 1777386184362,
-    "date": "2026/4/28 22:23:04",
-    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场8号球衣隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 37,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613778941-56e337d4-83e4-4d09-8ba6-b74fcdf0d116-gpt_image_2_backup_task_01KQA7JVG2HTAY6BBFAJHKJDNA_0.png",
-        "expiresAt": 1777472621
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7FAP3PK5R0CEDC8D8QY68",
-    "timestamp": 1777386104720,
-    "date": "2026/4/28 22:21:44",
-    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场蓝色球衣，8号隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 38,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613857153-8c57e171-d387-407f-81b1-f679fd8ccbb2-gpt_image_2_backup_task_01KQA7GF3WNPCFC8KN4EG77B3W_0.png",
-        "expiresAt": 1777472543
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7FAP3PK5R0CEDC8D8QY68",
-    "timestamp": 1777386104720,
-    "date": "2026/4/28 22:21:44",
-    "prompt": "生成一张真实质感，场边观众用手机拍摄的照片。内容是，在季后赛凯尔特人队的主场，保罗乔治身穿76人队客场蓝色球衣，8号隔扣凯尔特人队身穿主场球衣的杰森塔图姆与杰伦布朗。注意，是同时隔扣，三个人都起跳在空中的情况下，此时保罗乔治的背影。因为是季后赛，所以场边的大部分观众都穿着绿色应援T恤。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 38,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613857153-8c57e171-d387-407f-81b1-f679fd8ccbb2-gpt_image_2_backup_task_01KQA7GF3WNPCFC8KN4EG77B3W_0.png",
-        "expiresAt": 1777472543
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7AV6MTFEF0TSGJXR6Q407",
-    "timestamp": 1777385958046,
-    "date": "2026/4/28 22:19:18",
-    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。注意，是杰伦布朗与杰森塔图姆两个人被正面隔着扣。乔治身穿的是七十六人8号客场球衣，杰伦布朗与杰森塔图姆穿的是凯尔特人主场球衣。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 51,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613992273-2e492a84-e604-4b64-84c9-f67bbdac8e59-gpt_image_2_backup_task_01KQA7CB5DNR46RG67PK9DPZST_0.png",
-        "expiresAt": 1777472409
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7AV6MTFEF0TSGJXR6Q407",
-    "timestamp": 1777385958046,
-    "date": "2026/4/28 22:19:18",
-    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。注意，是杰伦布朗与杰森塔图姆两个人被正面隔着扣。乔治身穿的是七十六人8号客场球衣，杰伦布朗与杰森塔图姆穿的是凯尔特人主场球衣。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 51,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613992273-2e492a84-e604-4b64-84c9-f67bbdac8e59-gpt_image_2_backup_task_01KQA7CB5DNR46RG67PK9DPZST_0.png",
-        "expiresAt": 1777472409
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA7AV6MTFEF0TSGJXR6Q407",
-    "timestamp": 1777385958046,
-    "date": "2026/4/28 22:19:18",
-    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。注意，是杰伦布朗与杰森塔图姆两个人被正面隔着扣。乔治身穿的是七十六人8号客场球衣，杰伦布朗与杰森塔图姆穿的是凯尔特人主场球衣。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 51,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222613992273-2e492a84-e604-4b64-84c9-f67bbdac8e59-gpt_image_2_backup_task_01KQA7CB5DNR46RG67PK9DPZST_0.png",
-        "expiresAt": 1777472409
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA77P0HKF02SA57JBJKHVAR",
-    "timestamp": 1777385853836,
-    "date": "2026/4/28 22:17:33",
-    "prompt": "生成一张身穿费城七十六人客场球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影，在凯尔特人队的主场，因为是季后赛，所以大多数观众都穿着绿色应援T恤。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 47,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222614098905-519e93ea-4853-44c2-aa0f-315edfcbfddb-gpt_image_2_backup_task_01KQA793140EZW8RPG3MZEMFGA_0.png",
-        "expiresAt": 1777472302
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA6ESW4ZJ7JNQZ4MFN44X0P",
-    "timestamp": 1777385036737,
-    "date": "2026/4/28 22:03:56",
-    "prompt": "生成一张身穿费城七十六人复古黑色球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。背影",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 44,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222614917815-e6e50036-279b-4802-8135-03aed021171a-gpt_image_2_backup_task_01KQA6G3A8PKHDEY543ZY0YRDB_0.png",
-        "expiresAt": 1777471483
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA5P42NXV813QQHW1DGXYV8",
-    "timestamp": 1777384230369,
-    "date": "2026/4/28 21:50:30",
-    "prompt": "生成一张身穿费城七十六人复古黑色球衣，8号保罗乔治，同时隔扣杰森塔图姆和杰伦布朗的照片。要场边观众用手机拍摄的真实质感。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 37,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222615732957-1cdc3f17-5ee8-46c2-a37a-599f0ddbe05a-gpt_image_2_backup_task_01KQA5Q792J7NBVC5220Q9X5M8_0.png",
-        "expiresAt": 1777470668
-      }
-    ]
-  },
-  {
-    "id": "task_01KQA5N48YR7ARZ0PK1P8XVN11",
-    "timestamp": 1777384195917,
-    "date": "2026/4/28 21:49:55",
-    "prompt": "真实感手机拍摄 古风美女，网红蛇精脸，展示超级长的大长腿，紧身薄纱汉服，红底黑漆皮亮面高跟鞋",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 78,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222615725801-034e7259-3f93-41c2-8aa9-b50f4ae3fbfa-gpt_image_2_backup_task_01KQA5QE8N10C89G7KJGS1BH2C_0.png",
-        "expiresAt": 1777470676
       }
     ]
   }
