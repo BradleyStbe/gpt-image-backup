@@ -80,6 +80,22 @@
     ]
   },
   {
+    "id": "task_01KQMJEF08Z05686NKH4R83KZT",
+    "timestamp": 1777733151971,
+    "date": "2026/5/2 22:45:51",
+    "prompt": "除了人物主体以及手上的篮球外，其余背景全部变为黑白。变为黑白之后加上横向的动态模糊",
+    "size": "auto",
+    "resolution": "1k",
+    "n": 1,
+    "actualTime": 40,
+    "images": [
+      {
+        "url": "https://upload.apimart.ai/f/image/9998222266805424-fc331fdb-c00d-4bc5-9ccf-4bfbca83acf4-gpt_image_2_backup_task_01KQMJFMTFH0272CP3TY75Q9V7_0.png",
+        "expiresAt": 1777819595
+      }
+    ]
+  },
+  {
     "id": "task_01KQMFW7NXT5H60E4R4AW61MSY",
     "timestamp": 1777730458633,
     "date": "2026/5/2 22:00:58",
