@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNVN4FP2XPNFPFAFE333E3T",
+    "timestamp": 1777776359182,
+    "date": "2026/5/3 10:45:59",
+    "prompt": "以这张图为基础，模糊图中不同 part 的边界，用油画涂抹的方式去模糊图中不同 part 的边界，让它看起来更和谐。",
+    "size": "9:16",
+    "resolution": "2k",
+    "n": 1,
+    "actualTime": 150,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNVN4FP2XPNFPFAFE333E3T.png",
+        "expiresAt": 1777862916
+      }
+    ]
+  },
+  {
     "id": "task_01KQNVB6N5E3VQ2B41GPR6X4RB",
     "timestamp": 1777776025664,
     "date": "2026/5/3 10:40:25",
