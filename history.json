@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNWGNA5SR50F3Z77NQMH497",
+    "timestamp": 1777777260563,
+    "date": "2026/5/3 11:01:00",
+    "prompt": "所有元素不变，做成横屏版本。",
+    "size": "16:9",
+    "resolution": "2k",
+    "n": 1,
+    "actualTime": 144,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNWGNA5SR50F3Z77NQMH497.png",
+        "expiresAt": 1777863812
+      }
+    ]
+  },
+  {
     "id": "task_01KQNVN4FP2XPNFPFAFE333E3T",
     "timestamp": 1777776359182,
     "date": "2026/5/3 10:45:59",
