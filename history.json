@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNTQPVZ6M9MMFJKBRA66YYQ",
+    "timestamp": 1777775393590,
+    "date": "2026/5/3 10:29:53",
+    "prompt": "将图一放到图三的下方，将图二放到图三的上方，保持整体的比例一致性，保持原有构图，原有图三元素不变，保持图一图二中的构图角度不变，然后保持图三的画风不变。",
+    "size": "9:16",
+    "resolution": "2k",
+    "n": 1,
+    "actualTime": 162,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNTQPVZ6M9MMFJKBRA66YYQ.png",
+        "expiresAt": 1777861963
+      }
+    ]
+  },
+  {
     "id": "task_01KQNTNMJA9NPSXGF7037DZJPM",
     "timestamp": 1777775324647,
     "date": "2026/5/3 10:28:44",
