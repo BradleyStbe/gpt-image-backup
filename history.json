@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNXKS1RJQE95TEFJA8R4HNM",
+    "timestamp": 1777778416790,
+    "date": "2026/5/3 11:20:16",
+    "prompt": "做一张保罗乔治从大学开始，到进入 NBA 之后，每一个阶段的穿着当时球衣的背影。不需要文字，注意大学时期球衣是红白配色。",
+    "size": "21:9",
+    "resolution": "1k",
+    "n": 1,
+    "actualTime": 33,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNXKS1RJQE95TEFJA8R4HNM.png",
+        "expiresAt": 1777864851
+      }
+    ]
+  },
+  {
     "id": "task_01KQNX763JH8TMMRB5V749QKRF",
     "timestamp": 1777778004167,
     "date": "2026/5/3 11:13:24",
