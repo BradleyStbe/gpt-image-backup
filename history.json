@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNY0TET0WNAC783HF395E5S",
+    "timestamp": 1777778838908,
+    "date": "2026/5/3 11:27:18",
+    "prompt": "在图一的右下角加上图二，保持图一原有画风、原有构图，其他什么东西全部都不变，仅仅就是让图二融入进图一，把它放到图一的右下角去。",
+    "size": "16:9",
+    "resolution": "2k",
+    "n": 1,
+    "actualTime": 140,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNY0TET0WNAC783HF395E5S.png",
+        "expiresAt": 1777865386
+      }
+    ]
+  },
+  {
     "id": "task_01KQNWH44P44ZVN63SJ8FRKZBM",
     "timestamp": 1777777273631,
     "date": "2026/5/3 11:01:13",
