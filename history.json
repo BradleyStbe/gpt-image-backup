@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQNTZR8N57PAP1XJ4ZVK5Q5R",
+    "timestamp": 1777775658282,
+    "date": "2026/5/3 10:34:18",
+    "prompt": "略微按照你的意愿调整布局，用更有油画感的方式去模糊图中每一个人物之间的边界，使得图片不要太违和。保证图中每一个人物的动作、面部、他们的角度之类的不变。",
+    "size": "9:16",
+    "resolution": "2k",
+    "n": 1,
+    "actualTime": 145,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQNTZR8N57PAP1XJ4ZVK5Q5R.png",
+        "expiresAt": 1777862210
+      }
+    ]
+  },
+  {
     "id": "task_01KQNTQPVZ6M9MMFJKBRA66YYQ",
     "timestamp": 1777775393590,
     "date": "2026/5/3 10:29:53",
