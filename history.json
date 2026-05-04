@@ -112,22 +112,6 @@
     ]
   },
   {
-    "id": "task_01KQRSK7D6Y1RRABFCVAMWP3DQ",
-    "timestamp": 1777874867504,
-    "date": "2026/5/4 14:07:47",
-    "prompt": "”相机参数\":{ \"设备类型\":“iPhone 15 Pro 前置自拍”， \"镜头\":\"24mm\" \"构图\":“高角度 POV（第一人称视角）“， “后期处理\":“计算摄影风格，清晰的数字读出，深景深” “主体描述\":{ “特征\":\"陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛 ，小巧的鼻子，翘起的自然色嘴唇”， '表情”:\"面无表情，空洞，瞪大眼睛注视”， \"造型\":\"白金色的双紧辫发型，鲜的蓝色美甲”， \"服装\":“白色蕾丝比基尼套装，深邃锁骨”， \"动作\":“抬头仰视镜头，用一只手遮挡刺眼的阳光” “环境与灯光\":{ \"场景”:\"广阔的沙滩，背景中模糊的海平线”， “灯光\":“高调明亮的沿海日光，5500K 色温，强烈的白沙反光 填充，均匀照明\", “质感\":\"微带露水的无孔皮肤，细腻的反光白沙颗粒’ \"技术约束\":{ \"色彩科学\":“柔和的粉彩色调，线性中性色，高曝光”， “负面提示词”:[ ”重阴影”， “雪”， “冬装”， “红指甲”， “黑色上衣\"， \"保守的领口\"， “胶片颗粒感”",
-    "size": "auto",
-    "resolution": "1k",
-    "n": 3,
-    "actualTime": 60,
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSK7D6Y1RRABFCVAMWP3DQ.png",
-        "expiresAt": 1777961329
-      }
-    ]
-  },
-  {
     "id": "task_01KQRSKFAAKA3Z7R3GPTPN7W2C",
     "timestamp": 1777874876332,
     "date": "2026/5/4 14:07:56",
@@ -140,6 +124,38 @@
       {
         "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSKFAAKA3Z7R3GPTPN7W2C.png",
         "expiresAt": 1777961326
+      }
+    ]
+  },
+  {
+    "id": "task_01KQRSKFM62TPXF22CZ894NEMP",
+    "timestamp": 1777874876332,
+    "date": "2026/5/4 14:07:56",
+    "prompt": "”相机参数\":{ \"设备类型\":“iPhone 15 Pro 前置自拍”， \"镜头\":\"24mm\" \"构图\":“高角度 POV（第一人称视角）“， “后期处理\":“计算摄影风格，清晰的数字读出，深景深” “主体描述\":{ “特征\":\"陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛 ，小巧的鼻子，翘起的自然色嘴唇”， '表情”:\"面无表情，空洞，瞪大眼睛注视”， \"造型\":\"白金色的双紧辫发型，鲜的蓝色美甲”， \"服装\":“浅蓝色紧身弹力棉上衣，极深超宽V 领，深邃锁骨与 领口线”， \"动作\":“抬头仰视镜头，用一只手遮挡刺眼的阳光” “环境与灯光\":{ \"场景”:\"广阔的沙滩，背景中模糊的海平线”， “灯光\":“高调明亮的沿海日光，5500K 色温，强烈的白沙反光 填充，均匀照明\", “质感\":\"微带露水的无孔皮肤，细腻的反光白沙颗粒’ \"技术约束\":{ \"色彩科学\":“柔和的粉彩色调，线性中性色，高曝光”， “负面提示词”:[ ”重阴影”， “雪”， “冬装”， “红指甲”， “黑色上衣\"， \"保守的领口\"， “胶片颗粒感”",
+    "size": "auto",
+    "resolution": "1k",
+    "n": 2,
+    "actualTime": 26,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSKFM62TPXF22CZ894NEMP.png",
+        "expiresAt": 1777961304
+      }
+    ]
+  },
+  {
+    "id": "task_01KQRSK7D6Y1RRABFCVAMWP3DQ",
+    "timestamp": 1777874867504,
+    "date": "2026/5/4 14:07:47",
+    "prompt": "”相机参数\":{ \"设备类型\":“iPhone 15 Pro 前置自拍”， \"镜头\":\"24mm\" \"构图\":“高角度 POV（第一人称视角）“， “后期处理\":“计算摄影风格，清晰的数字读出，深景深” “主体描述\":{ “特征\":\"陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛 ，小巧的鼻子，翘起的自然色嘴唇”， '表情”:\"面无表情，空洞，瞪大眼睛注视”， \"造型\":\"白金色的双紧辫发型，鲜的蓝色美甲”， \"服装\":“白色蕾丝比基尼套装，深邃锁骨”， \"动作\":“抬头仰视镜头，用一只手遮挡刺眼的阳光” “环境与灯光\":{ \"场景”:\"广阔的沙滩，背景中模糊的海平线”， “灯光\":“高调明亮的沿海日光，5500K 色温，强烈的白沙反光 填充，均匀照明\", “质感\":\"微带露水的无孔皮肤，细腻的反光白沙颗粒’ \"技术约束\":{ \"色彩科学\":“柔和的粉彩色调，线性中性色，高曝光”， “负面提示词”:[ ”重阴影”， “雪”， “冬装”， “红指甲”， “黑色上衣\"， \"保守的领口\"， “胶片颗粒感”",
+    "size": "auto",
+    "resolution": "1k",
+    "n": 3,
+    "actualTime": 60,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSK7D6Y1RRABFCVAMWP3DQ.png",
+        "expiresAt": 1777961329
       }
     ]
   },
@@ -172,22 +188,6 @@
       {
         "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSK72RV6CTDDJ6BE9TA1Y0.png",
         "expiresAt": 1777961308
-      }
-    ]
-  },
-  {
-    "id": "task_01KQRSKFM62TPXF22CZ894NEMP",
-    "timestamp": 1777874876332,
-    "date": "2026/5/4 14:07:56",
-    "prompt": "”相机参数\":{ \"设备类型\":“iPhone 15 Pro 前置自拍”， \"镜头\":\"24mm\" \"构图\":“高角度 POV（第一人称视角）“， “后期处理\":“计算摄影风格，清晰的数字读出，深景深” “主体描述\":{ “特征\":\"陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛 ，小巧的鼻子，翘起的自然色嘴唇”， '表情”:\"面无表情，空洞，瞪大眼睛注视”， \"造型\":\"白金色的双紧辫发型，鲜的蓝色美甲”， \"服装\":“浅蓝色紧身弹力棉上衣，极深超宽V 领，深邃锁骨与 领口线”， \"动作\":“抬头仰视镜头，用一只手遮挡刺眼的阳光” “环境与灯光\":{ \"场景”:\"广阔的沙滩，背景中模糊的海平线”， “灯光\":“高调明亮的沿海日光，5500K 色温，强烈的白沙反光 填充，均匀照明\", “质感\":\"微带露水的无孔皮肤，细腻的反光白沙颗粒’ \"技术约束\":{ \"色彩科学\":“柔和的粉彩色调，线性中性色，高曝光”， “负面提示词”:[ ”重阴影”， “雪”， “冬装”， “红指甲”， “黑色上衣\"， \"保守的领口\"， “胶片颗粒感”",
-    "size": "auto",
-    "resolution": "1k",
-    "n": 2,
-    "actualTime": 26,
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQRSKFM62TPXF22CZ894NEMP.png",
-        "expiresAt": 1777961304
       }
     ]
   },
@@ -788,126 +788,6 @@
       {
         "url": "https://upload.apimart.ai/f/image/9998222385188746-024913c8-cbcb-4db1-b5a2-682bdebfc806-gpt_image_2_backup_task_01KQH1JW3NS92RS49XA0JV2Z5D_0.png",
         "expiresAt": 1777701213
-      }
-    ]
-  },
-  {
-    "id": "task_01KQH0W4H8W7KDEKV3X56YJX1B",
-    "timestamp": 1777614065714,
-    "date": "2026/5/1 13:41:05",
-    "prompt": "真实感手机拍摄 古风美女，网红蛇精脸，展示超级长的大长腿，紧身薄纱汉服，红底黑漆皮亮面高跟鞋",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 167,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222385769034-3b8706d7-23eb-41c0-99f7-cc74c01ae6d4-gpt_image_2_codex_task_01KQH115B3AY19Z2KXZJGP5N5T_0.png",
-        "expiresAt": 1777700633
-      }
-    ]
-  },
-  {
-    "id": "task_01KQGP2T79TY12T2WC8RVZYDQK",
-    "timestamp": 1777602748992,
-    "date": "2026/5/1 10:32:28",
-    "prompt": "2026年 NBA 季后赛东部首轮，76人对凯尔特人  Game 6。76人以106:93战胜凯尔特人，将系列赛大比分扳成3:3平。此战76人前锋保罗乔治发挥出色，全场出战39分37秒，得到23分、4篮板、3助攻、2抢断，正负值+11。帮助球队战胜对手。请以此信息制作海报，震撼感、史诗感。",
-    "size": "9:16",
-    "resolution": "2k",
-    "actualTime": 151,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222397100608-59d0953f-e150-4610-8102-2906217a5875-gpt_image_2_codex_task_01KQGP7B49XNMMF9JYAKHVJZ2T_0.png",
-        "expiresAt": 1777689301
-      }
-    ]
-  },
-  {
-    "id": "task_01KQGNTJ01M2J1A6TSR034TQAM",
-    "timestamp": 1777602478455,
-    "date": "2026/5/1 10:27:58",
-    "prompt": "号码/球员 时间 得分 篮板 助攻 投篮 三分 罚球 抢断 盖帽 失误 犯规 +/-\n8乔治 (前锋)39'37 23 4 3 8/17 5/9 2/2 2 1 4 2 +11\n以上是保罗乔治在东部首轮 G6面对波士顿凯尔特人时发挥神勇砍下的数据，他帮助球队费城七六人将比分扳成3:3。请以这个数据为底，制作海报，史诗感、震撼感。",
-    "size": "9:16",
-    "resolution": "2k",
-    "actualTime": 148,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222397373324-9ebab046-22c4-4728-b2c7-8aeb4839430e-gpt_image_2_codex_task_01KQGNZ0XY4R37GT6VDRKFHX1G_0.png",
-        "expiresAt": 1777689028
-      }
-    ]
-  },
-  {
-    "id": "task_01KQFAPED5YCA0NCVRK3J0RX35",
-    "timestamp": 1777557247936,
-    "date": "2026/4/30 21:54:07",
-    "prompt": "高清",
-    "size": "auto",
-    "resolution": "2k",
-    "actualTime": 81,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222442663566-de6bece1-0d3d-4677-820d-52e31156ec8a-gpt_image_2_codex_task_01KQFARWBB6CNPPJRMSF79ZJBX_0.png",
-        "expiresAt": 1777643737
-      }
-    ]
-  },
-  {
-    "id": "task_01KQFAN7ZZTZ45DC3HQQHTP8W9",
-    "timestamp": 1777557207925,
-    "date": "2026/4/30 21:53:27",
-    "prompt": "高清",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 46,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222442737428-64ff7ec0-eeb7-4f26-8a21-8ca0ba26b3a3-gpt_image_2_backup_task_01KQFAPM7A1QHQ9BTFH68J6C25_0.png",
-        "expiresAt": 1777643663
-      }
-    ]
-  },
-  {
-    "id": "task_01KQFA592R47KMSC3Q6T52N895",
-    "timestamp": 1777556693942,
-    "date": "2026/4/30 21:44:53",
-    "prompt": "制作一张费城保罗乔治G6在主场面对凯尔特人狂砍71分费城七六人将比分追至3:3的海报，其他数据随便编。震撼感、史诗感。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 44,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222443262727-8667a91c-0c9c-4013-a561-02ec6dd60d49-gpt_image_2_backup_task_01KQFA6K7P5R2HZT5NBYNHE4NT_0.png",
-        "expiresAt": 1777643138
-      }
-    ]
-  },
-  {
-    "id": "task_01KQFA19WZ7NPNQR4W6SK7P8Z4",
-    "timestamp": 1777556563168,
-    "date": "2026/4/30 21:42:43",
-    "prompt": "制作一张费城保罗乔治G6面对凯尔特人主场狂砍71分的海报，其他数据随便编。震撼感、史诗感。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 45,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222443392897-7c7cc5b5-39bb-4935-996f-4ab313d3de42-gpt_image_2_backup_task_01KQFA2M3W1Q4TEQTZZ5TVEZZY_0.png",
-        "expiresAt": 1777643008
-      }
-    ]
-  },
-  {
-    "id": "task_01KQF7VRSABKZSZVTT7NYFZEZB",
-    "timestamp": 1777554285126,
-    "date": "2026/4/30 21:04:45",
-    "prompt": "2018 季后赛\n \n首轮 G6（爵士 @ 雷霆，2018-04-27）\n \n- 结果：L 91-96（系列 2-4）\n\n- 时间：45:27\n\n- 得分：5 | 篮板：3（0+3） | 助攻：8 | 抢断：1 | 盖帽：0\n\n- 投篮：2-16（.125），三分 0-6（.000），罚球 1-2（.500）\n\n- 失误：6 | 犯规：3 | 效率：-5.5 | +/-：-2  生成保罗乔治季后赛拉稀海报，数据要保留，但是格式不一定要完全相同，以美观为准。",
-    "size": "auto",
-    "resolution": "1k",
-    "actualTime": 39,
-    "images": [
-      {
-        "url": "https://upload.apimart.ai/f/image/9998222445676424-dbc9aed7-1ce5-4a31-9781-3e512a1dc693-gpt_image_2_backup_task_01KQF7WY3KNA0PNSVJJNQRVFNP_0.png",
-        "expiresAt": 1777640724
       }
     ]
   }
