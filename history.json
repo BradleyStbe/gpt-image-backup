@@ -1,5 +1,21 @@
 [
   {
+    "id": "task_01KQYJZHJE64FWBFB9GH5K5GQ0",
+    "timestamp": 1778069255776,
+    "date": "2026/5/6 20:07:35",
+    "prompt": "真实感手机拍摄 古风美女，网红蛇精脸，丰满，展示超级长的大长腿，紧身高腰薄纱开叉中国传统服饰，红底黑漆皮亮面高跟鞋",
+    "size": "auto",
+    "resolution": "1k",
+    "n": 2,
+    "actualTime": 42,
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/BradleyStbe/gpt-image-backup/main/images/task_01KQYJZHJE64FWBFB9GH5K5GQ0.png",
+        "expiresAt": 1778155701
+      }
+    ]
+  },
+  {
     "id": "task_01KQYJMTE2PHJ93QEVD85MS7M8",
     "timestamp": 1778068904278,
     "date": "2026/5/6 20:01:44",
